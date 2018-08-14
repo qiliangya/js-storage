@@ -1,0 +1,28 @@
+{
+  "name": "js-storage",
+  "version": "1.0.0",
+  "description": "A simple project for resolve sessionStroage and localStroage problem",
+  "main": "./js-storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cookie",
+    "stroage",
+    "js-stroage",
+    "amd",
+    "requirejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qiliangya/js-storage"    
+  },
+  "files": [
+    "*.js"
+  ],
+  "author": "qiliangya",
+  "license": "ISC",
+  "devDependencies": {
+    "requirejs": "^2.3.5"
+  }
+}
