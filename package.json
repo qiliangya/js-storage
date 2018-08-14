@@ -2,7 +2,7 @@
   "name": "js-storage",
   "version": "1.0.0",
   "description": "A simple project for resolve sessionStroage and localStroage problem",
-  "main": "./js-storage.js",
+  "main": "./lib/js-storage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/qiliangya/js-storage"    
+    "url": "https://github.com/qiliangya/js-storage"
   },
   "files": [
     "*.js"

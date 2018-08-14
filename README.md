@@ -14,7 +14,7 @@ A simple project for resolve sessionStroage and localStroage problem
 Download the script [here](https://github.com/qiliangya/js-storage/js-storage.min.js) and include it (unless you are packaging scripts somehow else):
 
 ```html
-<script src="/js-storage.min.js"></script>
+<script src="/lib/js-storage.min.js"></script>
 ```
 
 ### Package Managers
