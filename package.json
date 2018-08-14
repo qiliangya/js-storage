@@ -1,8 +1,8 @@
 {
-  "name": "js-storage",
+  "name": "storage-live",
   "version": "1.0.0",
   "description": "A simple project for resolve sessionStroage and localStroage problem",
-  "main": "./lib/js-storage.js",
+  "main": "./lib/storage-live.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

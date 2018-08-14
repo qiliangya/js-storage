@@ -11,18 +11,18 @@ A simple project for resolve sessionStroage and localStroage problem
 ## Installation
 
 ### Direct download
-Download the script [here](https://github.com/qiliangya/js-storage/js-storage.min.js) and include it (unless you are packaging scripts somehow else):
+Download the script [here](https://github.com/qiliangya/js-storage/storage-live.min.js) and include it (unless you are packaging scripts somehow else):
 
 ```html
-<script src="/lib/js-storage.min.js"></script>
+<script src="/lib/storage-live.min.js"></script>
 ```
 
 ### Package Managers
-Javascript Storage supports [npm](https://www.npmjs.com/package/js-storage) under the name `js-storage`.
+Javascript Storage supports [npm](https://www.npmjs.com/package/js-storage) under the name `storage-live`.
 
 #### NPM
 ```
-  $ npm install js-storage --save
+  $ npm install storage-live --save
 ```
 
 ### Module Loaders
